@@ -3,7 +3,7 @@
 }
 
 body {
-  background: linear-gradient(#1c1c1b, #d442f5);
+  background-color: darkgrey ;
 } 
 
 header {
@@ -59,7 +59,7 @@ justify-content: center;
 #gradient-box {
   border-style:hidden;
   border-radius: 10px;
-  background-color: white;
+  background:linear-gradient(#1c1c1b, #d442f5);
   color: gray;
   font-size: 10px;
   justify-content: left;
