@@ -16,7 +16,7 @@ header {
 }
 
 body p {
-  color: white;
+  color: var(--text-color);
   display: flex;
   justify-content: center;
 }
@@ -65,7 +65,7 @@ justify-content: center;
   border-style:hidden;
   border-radius: 10px;
   background:linear-gradient(#1c1c1b, #d442f5);
-  color: gray;
+  color: whitesmoke;
   font-size: 10px;
   justify-content: left;
 }
