@@ -58,7 +58,7 @@ justify-content: center;
 .p {
   position: relative;
   font-size: 14px;
-  margin-top: -20px;
+  margin-top: -10px;
 }
 
 .gradient-box {
@@ -68,7 +68,6 @@ justify-content: center;
   color: whitesmoke;
   font-size: 10px;
   justify-content: left;
-  margin-left: 10px;
 }
 
 @media screen and (max-width: 992px) {
