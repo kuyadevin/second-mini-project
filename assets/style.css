@@ -56,6 +56,12 @@ justify-content: center;
   font-size: 14px;
 }
 
+#gradient-box {
+  border-style:hidden;
+  border-radius: 10px;
+  background-color: white;
+}
+
 @media screen and (max-width: 992px) {
 }
 
