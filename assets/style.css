@@ -19,16 +19,17 @@ body p {
 }
 
 main {
-display:flex;
+display:grid;
+grid-template-columns: auto auto auto;
 }
 
 .card {
   display: flex;
-  flex:1 0 auto; 
   padding: 10px;
   border-style: dashed;
   border-width: 5px;
   margin: 15px;
+  width: 33%;
 }
 
 .card h1 {
