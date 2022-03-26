@@ -1,0 +1,45 @@
+* {
+  font-family: "Arial";
+}
+
+body {
+  background: linear-gradient(#5d42f5, #d442f5);
+} 
+
+header {
+  display: flex;
+  color: white ;
+  justify-content: center;
+}
+
+body p {
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+main {
+display:flex;
+}
+
+.card {
+  display: flex;
+  flex:1 0 auto; 
+  padding: 10px;
+  border-style: dashed;
+  border-width: 5px;
+  margin: 15px;
+}
+
+.card h1 {
+  justify-content: center;
+}
+
+@media screen and (max-width: 992px) {
+}
+
+@media screen and (max-width: 768px) {
+}
+
+
+
