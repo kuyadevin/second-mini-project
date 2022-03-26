@@ -36,7 +36,9 @@ justify-content: center;
 }
 
 .card h1 {
-  justify-content: center;
+  height: fit-content;
+  width: fit-content;
+  justify-content: left;
   position: relative;
   margin-top: -20px;
   border-style: solid;
