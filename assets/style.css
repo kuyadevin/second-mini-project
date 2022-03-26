@@ -72,6 +72,10 @@ justify-content: center;
   -webkit-user-select: all;
   -ms-user-select: all;
   user-select: all;
+  transition: background 2s;
+}
+.gradient-box:hover {
+  background: black;
 }
 
 @media screen and (max-width: 992px) {
