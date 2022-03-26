@@ -60,6 +60,9 @@ justify-content: center;
   border-style:hidden;
   border-radius: 10px;
   background-color: white;
+  color: gray;
+  font-size: 10px;
+  justify-content: left;
 }
 
 @media screen and (max-width: 992px) {
