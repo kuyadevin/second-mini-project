@@ -68,6 +68,10 @@ justify-content: center;
   color: whitesmoke;
   font-size: 12px;
   justify-content: left;
+  -moz-user-select: all;
+  -webkit-user-select: all;
+  -ms-user-select: all;
+  user-select: all;
 }
 
 @media screen and (max-width: 992px) {
